@@ -25,20 +25,3 @@ function plus3(team) {
         guestScore.textContent = parseInt(guestScore.textContent) + 3;
     }
 }
-
-
-    //  <div class="container">
-    //         <div class="home">
-    //             <h3>HOME</h3>
-    //             <h2 id="home-score score-board">0</h2>
-    //             <button type="button" onclick="plus1()">+1</button>
-    //             <button type="button" onclick="plus2()">+2</button>
-    //             <button type="button" onclick="plus3()">+3</button>
-    //         </div>
-    //         <div class="guest">
-    //             <h3>GUEST</h3>
-    //             <h2 id="guest-score score-board">0</h2>
-    //             <button type="button" onclick="plus1()">+1</button>
-    //             <button type="button" onclick="plus2()">+2</button>
-    //             <button type="button" onclick="plus3()">+3</button>
-    //         </div>
