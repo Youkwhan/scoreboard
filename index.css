@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+
+h2{
+    font-size: 90px;
+    line-height: 127px;
+    color: #F94F6D;
+    
+    width: 155px;
+    height: 120px;
+
+    background: #080001;
+    border-radius: 5px;
+}
+
+h3 {
+    color:#fff;
+    font-family: 'Verdana';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+}
+
+button {
+    font-family: inherit;
+    border: 2px solid #9AABD8;
+border-radius: 5px;
+color: #9AABD8;
+font-size: 18px;
+line-height: 28px;
+background-color: Transparent;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+
